@@ -1,4 +1,4 @@
 spring:
-	security:
-		user:
-			password: s3cret
+	datasource:
+		username: user
+		password: s3cret
